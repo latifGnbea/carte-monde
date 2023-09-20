@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/carte-monde/static/css/main.13d133f0.css",
+    "main.js": "/carte-monde/static/js/main.7309fd6d.js",
+    "static/media/main.jpg": "/carte-monde/static/media/main.516fbcd135926107480c.jpg",
+    "static/media/JosefinSans-Medium.ttf": "/carte-monde/static/media/JosefinSans-Medium.45a5738c27c1bbbecc0c.ttf",
+    "index.html": "/carte-monde/index.html",
+    "main.13d133f0.css.map": "/carte-monde/static/css/main.13d133f0.css.map",
+    "main.7309fd6d.js.map": "/carte-monde/static/js/main.7309fd6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13d133f0.css",
+    "static/js/main.7309fd6d.js"
+  ]
+}
